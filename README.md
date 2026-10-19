@@ -10,6 +10,8 @@ Me chamo Kauã Brandão, tenho 19 anos e moro em Salvador - BA. Atualmente curso
  
 #
 
+<img align="right" alt="" height="190px" src="./src/0beb015bba39e043a4399309fcdc2fc2.jpg?raw=true.gif">
+
 
 
 <h3 align="left">Connect with me!</h3>
