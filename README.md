@@ -20,7 +20,7 @@ Me chamo Kauã Brandão, tenho 19 anos e moro em Salvador - BA. Atualmente curso
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/---/)
 
 
-<h3 align="left">My Stack ~</h3>
+<h3 align="left">🛠 Tech Stack</h3>
 
  
 
