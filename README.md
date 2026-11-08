@@ -6,7 +6,7 @@
 
 #
 
-Me chamo Kauã Brandão, tenho 19 anos e moro em Salvador - BA. Atualmente curso Ciência da Computação. Sou apaixonado por tecnologia, curioso sobre Hardware e estou sempre buscando aprender mais sobre Desenvolvimento de Software.
+Me chamo Kauã Brandão, tenho 19 anos e moro em Salvador - BA. Atualmente curso Ciência da Computação. Sou apaixonado por tecnologia e estou sempre buscando aprender mais sobre Desenvolvimento de Software.
  
 #
 
