@@ -16,7 +16,7 @@ Me chamo Kauã Brandão, tenho 19 anos e moro em Salvador - BA. Atualmente curso
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:kauabrandao986@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=FFF)](https://mail.google.com/mail/?view=cm&to=kauabrandao986@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF)](https://www.linkedin.com/in/kauabrandao)
 
 <h3 align="left">🛠 Tech Stack</h3>
